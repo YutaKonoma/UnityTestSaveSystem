@@ -20,7 +20,7 @@ public class TestJsonUtility : MonoBehaviour
     private string _filePath;
 
     [SerializeField]
-    [Header("ステージのボタン")]
+    [Header("ステージを選択する際のボタン")]
     private GameObject[] _stageButton;
 
     void Start()
