@@ -12,4 +12,4 @@ ________________________________________________________________________________
 
 `MessagePack`　作成予定  
 
-[ZeroFormatter]([http://qiita.com/](https://github.com/neuecc/ZeroFormatter/blob/master/sandbox/PerformanceComparison/FlatBuffers/FlatBuffersObject/MonsterData.cs)
+[ZeroFormatter](https://github.com/neuecc/ZeroFormatter)
