@@ -12,5 +12,5 @@ ________________________________________________________________________________
 
 `MessagePack`　作成予定  
 
-[ZeroFormatter(GitHub)](https://github.com/neuecc/ZeroFormatter)
+[ZeroFormatter(GitHub)](https://github.com/neuecc/ZeroFormatter)  Unity 2021.3.8f1
 
