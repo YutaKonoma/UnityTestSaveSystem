@@ -10,4 +10,6 @@ ________________________________________________________________________________
 
 `ZeroFormatter`　作成途中　仕組み的に、今回作っているセーブシステムには合わない気がする。
 
-`MessagePack`　作成予定
+`MessagePack`　作成予定  
+
+[ZeroFormatter]([http://qiita.com/](https://github.com/neuecc/ZeroFormatter/blob/master/sandbox/PerformanceComparison/FlatBuffers/FlatBuffersObject/MonsterData.cs))
