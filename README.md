@@ -10,10 +10,7 @@ ________________________________________________________________________________
 
 `ZeroFormatter`　作成途中　仕組み的に、今回作っているセーブシステムには合わない気がする。
 
-<<<<<<< HEAD
 `MessagePack`　作成予定  
 
 [ZeroFormatter(GitHub)](https://github.com/neuecc/ZeroFormatter)
-=======
-`MessagePack`　作成予定
->>>>>>> parent of 27a551e (Update README.md)
+
