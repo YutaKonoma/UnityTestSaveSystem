@@ -6,7 +6,7 @@ ________________________________________________________________________________
 <br><br>
 `JsonUtility`　
 [JsonUtility](https://github.com/YutaKonoma/UnityTestSaveSystem/tree/master/Assets/Scripts/JsonUtility)
-Load jsonファイル内のint値分for分でボタンを開放している。save ファイルの有無を確認してない場合には作成してから保存するようにしている。　
+Load jsonファイル内のint値だけfor文でボタンを開放している。save ファイルの有無を確認してない場合には作成してから保存するようにしている。　
 
 `ZeroFormatter`
 [ZeroFormatter](https://github.com/YutaKonoma/UnityTestSaveSystem/tree/master/Assets/Scripts/ZeroFormatter)
